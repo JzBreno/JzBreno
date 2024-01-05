@@ -1,7 +1,7 @@
 ###Olá, me chamo Breno 👋
 
 🐱‍👤Estudante de Ciências da computação<br> 
-🖥💻Estudando HTML&CSS, JAVA e Ethical Hacking<br>
+🖥💻Estudando JAVA, PYTHON e DATA SCIENCE <br>
 
 <div>
   <a href="https://www.instagram.com/jzbreno/">
